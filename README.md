@@ -12,6 +12,5 @@ le tp consiste a ecrire du code c avec l'aide des structures de donee qui permet
 8. Produits vectoriel
 9. Produits vecteur × matrices
 ******repartition du travail*******
-pour harmoniser le travail, le nom des structures 
-
-
+le travail a été réparti entre les membres du groupe, chaque membre a été assigné une partie du travail, un code à écrire
+les codes ont été vérifiés par les membres du groupe et les erreurs ont été rectifiées.
