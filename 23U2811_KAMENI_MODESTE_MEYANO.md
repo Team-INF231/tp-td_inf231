@@ -1,6 +1,6 @@
 KAMENI MODESTE MEYANO
 23U2811
 Rapport personelle
-******TAF******
+******TAF*******
 -rediger le readme
--harmoniser les codes
+-creer/organiser le depositoire
